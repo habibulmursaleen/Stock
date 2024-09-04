@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("stocApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+608dd6193f238986b7a13013a414ebf3a5bb3ca4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f568698d61d4f2d0bb63d7b071d1cee3502cd214")]
 [assembly: System.Reflection.AssemblyProductAttribute("stocApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("stocApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
